@@ -1,0 +1,20 @@
+Times:
+
+10 simulations: 0m0.022s
+100 simulations: 0m0.023s
+1000 simulations: 0m0.032s
+10000 simulations: 0m0.130s
+100000 simulations: 0m1.178s
+1000000 simulations: 0m11.197s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+
+With a small number of predictions, there was not enough data to predict ratios.
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?:
+
+It seems like the predictions stabilized after about 10000 number of predictions,
+because the repeatations have started to give almost same results after that number.
