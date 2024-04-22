@@ -19,6 +19,7 @@ Login:
     Once registered, log in to your account using your credentials on the Moview Login page.
 
 Sharing Your Movie Views:
+    
     1. Choose a Movie:
         Navigate to the search or explore feature to find the movie you want to share your view on.
 
