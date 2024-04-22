@@ -34,6 +34,7 @@ Technologies Utilized
 Moview is meticulously crafted using a suite of modern web technologies, including HTML, CSS, JavaScript, Python, and SQL. The backend architecture is powered by Flask, harnessing the strength and versatility of Python to deliver a robust framework.
 
 Key Libraries in Python Code:
+    
     1.cs50: Enhancing security and functionality within the application's codebase.
     2.datetime: Enabling precise handling of date and time functionalities for seamless user experiences.
     3.flask: Driving the backend infrastructure, providing a flexible framework for web development.
